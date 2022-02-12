@@ -3,8 +3,8 @@
 This is a frontend project which shows the recommendations for selecte movie/TV shows genre.
 
 ## Github link
-
-In the project directory, you can run:
+// Clone the repository from master branch
+In the project directory, you can run: git clone https://github.com/ssinghal571/Hulu-ui-ux.git
 
 ## Run the code
 
