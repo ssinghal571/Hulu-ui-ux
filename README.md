@@ -11,4 +11,4 @@ In the project directory, you can run:
 'npm run start'
 This will open the project at http://localhost:3000 in the browser.
 
-The page will reload if you make edits.\
+The page will reload if you make edits.
