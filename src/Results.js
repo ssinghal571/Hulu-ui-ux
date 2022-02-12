@@ -8,7 +8,7 @@ function Results({ selectedOption }) {
   const [movies, setMovies] = useState([]);
 
   useEffect(() => {
-    // Run a piece of code wach time this component loads
+    // Run a piece of code watch time this component loads
     async function fetchData() {
       const response = await axios.get(selectedOption);
       // console.log(response);
